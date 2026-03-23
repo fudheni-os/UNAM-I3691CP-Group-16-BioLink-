@@ -1,11 +1,11 @@
-BioLink – Mobile Safety Monitoring App
+# BioLink – Mobile Safety Monitoring App
 
- Group Information
-Group Name: Group 16  
+## Group Information
+**Group Name:** Group 16  
 
- Group Members
+## Group Members
 - Logic Josephath – 225087383  
-- Sesilia Estevanhu – 225077175  
+- Sesilia Estevanhu – 2250771752  
 - Ernesto Wustow Bussel – 225085542  
 - Tegameno Iyambo – 225034328  
 - Eric Pandu Petruttis – 225120941  
@@ -25,7 +25,7 @@ Group Name: Group 16
 - Tulikeni QL Hanghome – 225075040  
 
 ## Engineering Domain
-Software Engineering applied to Industrial Safety Systems (Mining, Civil, and Metallurgical Engineering environments)
+Software Engineering applied to **Industrial Safety Systems** (Mining, Civil, and Metallurgical Engineering environments)
 
 ## Project Description
-BioLink is a mobile-based safety monitoring application designed for hazardous industrial environments such as mines, construction sites, and processing plants. The system leverages built-in smartphone sensors (accelerometer, microphone, and location services) to detect critical safety risks including falls, excessive noise exposure, and emergency situations. Instead of relying on expensive external hardware, BioLink uses a cost-effective approach by transforming standard smartphones into intelligent safety devices. The application also integrates cloud-based data storage and real-time dashboards, enabling supervisors to monitor worker status, respond to incidents and maintain safety compliance. A key innovation is the use of last known location tracking for underground environments where GPS is unavailable, ensuring reliable emergency response coordination.
+BioLink is a mobile-based safety monitoring application designed for hazardous industrial environments such as mines, construction sites, and processing plants. The system leverages built-in smartphone sensors (accelerometer, microphone, and location services) to detect critical safety risks including falls, excessive noise exposure, and emergency situations. Instead of relying on expensive external hardware, BioLink uses a cost-effective approach by transforming standard smartphones into intelligent safety devices. The application also integrates cloud-based data storage and real-time dashboards, enabling supervisors to monitor worker status, respond to incidents بسرعة, and maintain safety compliance. A key innovation is the use of last known location tracking for underground environments where GPS is unavailable, ensuring reliable emergency response coordination.
