@@ -5,7 +5,7 @@
 
 ## Group Members
 - Logic Josephath – 225087383  
-- Sesilia Estevanhu – 2250771752  
+- Sesilia Estevanhu – 225077175 
 - Ernesto Wustow Bussel – 225085542  
 - Tegameno Iyambo – 225034328  
 - Eric Pandu Petruttis – 225120941  
